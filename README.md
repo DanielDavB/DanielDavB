@@ -23,12 +23,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="Ilustrator" title="Ilustrator" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" title="Photoshop" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="Premiere" title="Premiere" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" title="Python" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" alt="XD" title="XD" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" title="Python" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" title="CSS" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html" title="html" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" title="Pandas" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" color="white" alt="GitHub" title="GitHub" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" title="Javascript" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40">
