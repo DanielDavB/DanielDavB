@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://github.com/DanielDavB/DanielDavB/blob/main/Image.jpg" alt="Dan Photo" width="300px">
+    <img src="https://github.com/DanielDavB/DanielDavB/blob/main/Gemini_Generated_Image_mochsbmochsbmoch.png" alt="Dan Photo" width="300px">
     <h1 align="center"> Hi, I'm Dan </h1>
     <h3 align="center"> 
        I am a coder, but further than that, I'm a person who is interested in create things, explore new horizons, and always is a good moment to learn new stuff and challenge myself. I love the code and I love designing, nothing is imposible.
